@@ -3,7 +3,7 @@ NAME	=	samples
 
 # Version is read from first paragraph of REAMDE file
 #~ VERSION		?=	$(shell grep '^FABUI [0-9]\+\.[0-9]\+' README.md README.md | head -n1 | cut -d' ' -f2)
-VERSION		?=	v$(shell date +%Y%m%d)
+VERSION		?=	$(shell date +%Y%m%d)
 
 # Priority for colibri bundle
 PRIORITY	?= 080
@@ -22,14 +22,14 @@ BUNDLE_COMP		?= xz
 OS_FLAVOUR	?= colibri
 
 # FAB-UI system paths
-LIB_PATH		?= /var/lib/$(NAME)/
-SHARED_PATH		?= /usr/share/$(NAME)/
+LIB_PATH		?= /var/lib/fabui/
+SHARED_PATH		?= /usr/share/fabui/
 METADATA_PATH	?= /var/lib/colibri/bundle/$(NAME)
 WWW_PATH		?= /var/www/
 MOUNT_BASE_PATH	?= /mnt/
 FABUI_PATH		?= $(SHARED_PATH)
 TASKS_PATH		?= $(WWW_PATH)tasks/
-RECOVERY_PATH	?= $(WWW_PATH)recovery/
+RECOVERY_PATH	?= $(FABUI_PATH)recovery/
 UPLOAD_PATH		?= $(WWW_PATH)upload/
 FABUI_TEMP_PATH	?= $(WWW_PATH)temp/
 PYTHON_PATH		?= $(FABUI_PATH)ext/py/
