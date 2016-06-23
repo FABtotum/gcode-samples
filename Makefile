@@ -9,7 +9,7 @@ VERSION		?=	v$(shell date +%Y%m%d)
 PRIORITY	?= 080
 
 # FABUI license
-LICENSE		?= CCv1
+LICENSE		?= CC0
 
 # Buncle compression method
 # Available:
