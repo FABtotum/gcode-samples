@@ -128,6 +128,9 @@ check-tools:
 
 bundle: $(CUSTOM_BUNDLE)
 
+json:
+	@python generate_json.py $(RECOVERY_FILES)
+
 # Collects rules of all *.in files and uses the generator on them.
 % : %.in
 	./generate_config.sh $^ $@ \

@@ -1,0 +1,151 @@
+{
+    "files": {}, 
+    "objects": {
+        "samples/Advanced": {
+            "description": "These objects are more precise, bigger or complex to print.", 
+            "files": {
+                "samples/Advanced/Arc_triomphe_by_LeFab_Shop_(thingiverse_CC-BY-SA)_PLA-1.5hour-14grams.gcode": {
+                    "name": "Arc triomphe", 
+                    "note": "by LeFab Shop, PLA, 1.5hour, 14grams", 
+                    "path": "samples/Advanced/Arc_triomphe_by_LeFab_Shop_(thingiverse_CC-BY-SA)_PLA-1.5hour-14grams.gcode"
+                }, 
+                "samples/Advanced/BoltAndNut 9x Thighter.gcode": {
+                    "name": "Bolt And Nut", 
+                    "note": "9x", 
+                    "path": "samples/Advanced/BoltAndNut 9x Thighter.gcode"
+                }, 
+                "samples/Advanced/Bucky Ball inflated, by Fred Bartels.gcode": {
+                    "name": "Bucky Ball inflated", 
+                    "note": "by Fred Bartels", 
+                    "path": "samples/Advanced/Bucky Ball inflated, by Fred Bartels.gcode"
+                }, 
+                "samples/Advanced/Hand_OK_lowpoly_by_Cyclone_h40_(thingiverse_CC-BY-SA)_PLA-30min-4grams.gcode": {
+                    "name": "Hand OK lowpoly", 
+                    "note": "by Cyclone_h40 PLA, 30min-4grams.gcode", 
+                    "path": "samples/Advanced/Hand_OK_lowpoly_by_Cyclone_h40_(thingiverse_CC-BY-SA)_PLA-30min-4grams.gcode"
+                }, 
+                "samples/Advanced/Matlab_Knot_by_Emmet_(thingiverse_BSD-License)-PLA-Support-2hour-20grams.gcode": {
+                    "name": "Matlab Knot", 
+                    "note": "by Emmet, PLA, Support, 2hour, 20grams", 
+                    "path": "samples/Advanced/Matlab_Knot_by_Emmet_(thingiverse_BSD-License)-PLA-Support-2hour-20grams.gcode"
+                }, 
+                "samples/Advanced/Soft Octet Trusses by HunterFrerich (thingiverse CC_BY_SA) PLA-1hour-7grams.gcode": {
+                    "name": "Soft Octet Trusses", 
+                    "note": "by HunterFrerich, PLA, 1hour, 7grams", 
+                    "path": "samples/Advanced/Soft Octet Trusses by HunterFrerich (thingiverse CC_BY_SA) PLA-1hour-7grams.gcode"
+                }, 
+                "samples/Advanced/Venus De Milo scanned by Cosmo Wenman (thingiverse CC-BY) PLA-4hour-26grams.gcode": {
+                    "name": "Venus De Milo", 
+                    "note": "scanned by Cosmo Wenman, PLA, 4hour, 26grams", 
+                    "path": "samples/Advanced/Venus De Milo scanned by Cosmo Wenman (thingiverse CC-BY) PLA-4hour-26grams.gcode"
+                }
+            }, 
+            "name": "Samples - Advanced", 
+            "path": "samples/Advanced"
+        }, 
+        "samples/Easy": {
+            "description": "Beginners samples. Easier to print.", 
+            "files": {
+                "samples/Easy/8bitHeart_by_Makerbot_(thinghiverse_CC-BY)_PLA-43min-6grams.gcode": {
+                    "name": "8bitHeart", 
+                    "note": "PLA, 43min, 6gramsby MakerBot", 
+                    "path": "samples/Easy/8bitHeart_by_Makerbot_(thinghiverse_CC-BY)_PLA-43min-6grams.gcode"
+                }, 
+                "samples/Easy/Darth_Marvin_by_FABtotum_(thingiverse_CC-BY-SA)-PLA-30min-5g.gcode": {
+                    "name": "Darth Marvin", 
+                    "note": "PLA, 30min, 5g", 
+                    "path": "samples/Easy/Darth_Marvin_by_FABtotum_(thingiverse_CC-BY-SA)-PLA-30min-5g.gcode"
+                }, 
+                "samples/Easy/Fabtotum_logo_keychan_(CC-BY)_PLA-3min-1gram.gcode": {
+                    "name": "Fabtotum logo keychan", 
+                    "note": "PLA, 3min, 1gram", 
+                    "path": "samples/Easy/Fabtotum_logo_keychan_(CC-BY)_PLA-3min-1gram.gcode"
+                }, 
+                "samples/Easy/Lisa the printable skull by macouno_(thingiverse_CC-BY-SA)_PLA-43min-10grams-ONLY_FILL.gcode": {
+                    "name": "Lisa the printable skull", 
+                    "note": "by Macouno, PLA, 43min, 10grams", 
+                    "path": "samples/Easy/Lisa the printable skull by macouno_(thingiverse_CC-BY-SA)_PLA-43min-10grams-ONLY_FILL.gcode"
+                }, 
+                "samples/Easy/Lisa the printable skull by macouno_(thingiverse_CC-BY-SA)_PLA-50min-8grams.gcode": {
+                    "name": "Lisa the printable skull", 
+                    "note": "by Macouno, PLA, 50min, 8grams", 
+                    "path": "samples/Easy/Lisa the printable skull by macouno_(thingiverse_CC-BY-SA)_PLA-50min-8grams.gcode"
+                }, 
+                "samples/Easy/Marvin_KeyChain_FABtotum.gcode": {
+                    "name": "Marvin KeyChain FABtotum", 
+                    "note": "", 
+                    "path": "samples/Easy/Marvin_KeyChain_FABtotum.gcode"
+                }, 
+                "samples/Easy/PacMan Ghost_by_Hatch_(thingiverse-CC-BY)_PLA-20min-4gram.gcode": {
+                    "name": "PacMan Ghost", 
+                    "note": "by Hatch, PLA, 20min, 4gram", 
+                    "path": "samples/Easy/PacMan Ghost_by_Hatch_(thingiverse-CC-BY)_PLA-20min-4gram.gcode"
+                }, 
+                "samples/Easy/Watering_Can_by_James_Wood_(thingiverse_CC-BY-NC)-PLA-15min-3grams.gcode": {
+                    "name": "Watering Can", 
+                    "note": "by James_Wood, PLA, 15min, 3grams", 
+                    "path": "samples/Easy/Watering_Can_by_James_Wood_(thingiverse_CC-BY-NC)-PLA-15min-3grams.gcode"
+                }
+            }, 
+            "name": "Samples - Easy", 
+            "path": "samples/Easy"
+        }, 
+        "samples/Replicable parts": {
+            "description": "Usefull parts and tools that you can use with your FABtotum Personal Fabricator", 
+            "files": {
+                "samples/Replicable parts/Clamp_Complete-Set_for(M4x30)-3h.gcode": {
+                    "name": "Clamp Complete Set for M4", 
+                    "note": "M4x303h", 
+                    "path": "samples/Replicable parts/Clamp_Complete-Set_for(M4x30)-3h.gcode"
+                }, 
+                "samples/Replicable parts/Dust_Cover_V2.gcode": {
+                    "name": "Dust Cover V2", 
+                    "note": "", 
+                    "path": "samples/Replicable parts/Dust_Cover_V2.gcode"
+                }, 
+                "samples/Replicable parts/Mandrel_40-80_(1h30min-25gram).gcode": {
+                    "name": "Mandrel 40-80.gcode", 
+                    "note": "1h30min, 25gram", 
+                    "path": "samples/Replicable parts/Mandrel_40-80_(1h30min-25gram).gcode"
+                }, 
+                "samples/Replicable parts/RaspiCam_Dust_Cover.gcode": {
+                    "name": "RaspiCam Dust Cover", 
+                    "note": "", 
+                    "path": "samples/Replicable parts/RaspiCam_Dust_Cover.gcode"
+                }, 
+                "samples/Replicable parts/Socket Insert Screwdriver 5.5 (M3 nuts).gcode": {
+                    "name": "Socket Insert Screwdriver 5.5", 
+                    "note": "M3 nuts", 
+                    "path": "samples/Replicable parts/Socket Insert Screwdriver 5.5 (M3 nuts).gcode"
+                }, 
+                "samples/Replicable parts/Socket Screwdriver 10 (head V2 Pushfit).gcode": {
+                    "name": "Socket Screwdriver 10", 
+                    "note": "head V2 Pushfit", 
+                    "path": "samples/Replicable parts/Socket Screwdriver 10 (head V2 Pushfit).gcode"
+                }, 
+                "samples/Replicable parts/Socket Screwdriver 5.5 (M3 nuts).gcode": {
+                    "name": "Socket Screwdriver 5.5", 
+                    "note": "M3 nuts", 
+                    "path": "samples/Replicable parts/Socket Screwdriver 5.5 (M3 nuts).gcode"
+                }, 
+                "samples/Replicable parts/Socket Screwdriver 7 (M4 nuts).gcode": {
+                    "name": "Socket Screwdriver 7", 
+                    "note": "M4 nuts", 
+                    "path": "samples/Replicable parts/Socket Screwdriver 7 (M4 nuts).gcode"
+                }, 
+                "samples/Replicable parts/Socket Screwdriver 8 (M5 nuts).gcode": {
+                    "name": "Socket Screwdriver 8", 
+                    "note": "M5 nuts", 
+                    "path": "samples/Replicable parts/Socket Screwdriver 8 (M5 nuts).gcode"
+                }, 
+                "samples/Replicable parts/Spool Lock Lever V2.gcode": {
+                    "name": "Spool Lock Lever V2", 
+                    "note": "", 
+                    "path": "samples/Replicable parts/Spool Lock Lever V2.gcode"
+                }
+            }, 
+            "name": "FABtotum Replicable parts & tools", 
+            "path": "samples/Replicable parts"
+        }
+    }
+}
