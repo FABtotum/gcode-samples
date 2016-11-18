@@ -62,7 +62,8 @@ WWW_FILES		=
 FABUI_FILES		=	
 
 # <files>/* is to avoid making <files>/<files> path
-RECOVERY_FILES	=	samples
+RECOVERY_FILES	=	samples \
+					import.json
 
 CONFIG_FILES	=
 
