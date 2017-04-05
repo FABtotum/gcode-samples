@@ -46,45 +46,40 @@
     "samples/Easy": {
       "description": "Beginners samples. Easier to print.",
       "files": {
-        "samples/Easy/8bitHeart_by_Makerbot_(thinghiverse_CC-BY)_PLA-43min-6grams.gcode": {
-          "name": "8bitHeart",
-          "note": "PLA, 43min, 6gramsby MakerBot",
-          "path": "samples/Easy/8bitHeart_by_Makerbot_(thinghiverse_CC-BY)_PLA-43min-6grams.gcode"
-        },
-        "samples/Easy/Darth_Marvin_by_FABtotum_(thingiverse_CC-BY-SA)-PLA-30min-5g.gcode": {
-          "name": "Darth Marvin",
-          "note": "PLA, 30min, 5g",
-          "path": "samples/Easy/Darth_Marvin_by_FABtotum_(thingiverse_CC-BY-SA)-PLA-30min-5g.gcode"
-        },
-        "samples/Easy/Fabtotum_logo_keychan_(CC-BY)_PLA-3min-1gram.gcode": {
-          "name": "Fabtotum logo keychan",
-          "note": "PLA, 3min, 1gram",
-          "path": "samples/Easy/Fabtotum_logo_keychan_(CC-BY)_PLA-3min-1gram.gcode"
-        },
-        "samples/Easy/Lisa the printable skull by macouno_(thingiverse_CC-BY-SA)_PLA-43min-10grams-ONLY_FILL.gcode": {
-          "name": "Lisa the printable skull",
-          "note": "by Macouno, PLA, 43min, 10grams",
-          "path": "samples/Easy/Lisa the printable skull by macouno_(thingiverse_CC-BY-SA)_PLA-43min-10grams-ONLY_FILL.gcode"
-        },
-        "samples/Easy/Lisa the printable skull by macouno_(thingiverse_CC-BY-SA)_PLA-50min-8grams.gcode": {
-          "name": "Lisa the printable skull",
-          "note": "by Macouno, PLA, 50min, 8grams",
-          "path": "samples/Easy/Lisa the printable skull by macouno_(thingiverse_CC-BY-SA)_PLA-50min-8grams.gcode"
-        },
-        "samples/Easy/Marvin_KeyChain_FABtotum.gcode": {
-          "name": "Marvin KeyChain FABtotum",
+        "samples/Easy/8_bit_heart.gcode": {
+          "name": "8 Bit Heart",
           "note": "",
-          "path": "samples/Easy/Marvin_KeyChain_FABtotum.gcode"
+          "path": "samples/Easy/8_bit_heart.gcode"
         },
-        "samples/Easy/PacMan Ghost_by_Hatch_(thingiverse-CC-BY)_PLA-20min-4gram.gcode": {
+        "samples/Easy/darth_marvin.gcode": {
+          "name": "Darth Marvin",
+          "note": "",
+          "path": "samples/Easy/darth_marvin.gcode"
+        },
+        "samples/Easy/fabtotum_logo_keychain.gcode": {
+          "name": "Fabtotum Logo Keychain",
+          "note": "",
+          "path": "samples/Easy/fabtotum_logo_keychain.gcode"
+        },
+        "samples/Easy/lisa_the_printable_skull.gcode": {
+          "name": "Lisa the printable skull",
+          "note": "",
+          "path": "samples/Easy/lisa_the_printable_skull.gcode"
+        },
+        "samples/Easy/marvin_keychan.gcode": {
+          "name": "Marvin Keychan",
+          "note": "",
+          "path": "samples/Easy/marvin_keychan.gcode"
+        },
+        "samples/Easy/pacman_ghost.gcode": {
           "name": "PacMan Ghost",
-          "note": "by Hatch, PLA, 20min, 4gram",
-          "path": "samples/Easy/PacMan Ghost_by_Hatch_(thingiverse-CC-BY)_PLA-20min-4gram.gcode"
+          "note": "",
+          "path": "samples/Easy/pacman_ghost.gcode"
         },
-        "samples/Easy/Watering_Can_by_James_Wood_(thingiverse_CC-BY-NC)-PLA-15min-3grams.gcode": {
+        "samples/Easy/watering_can.gcode": {
           "name": "Watering Can",
-          "note": "by James_Wood, PLA, 15min, 3grams",
-          "path": "samples/Easy/Watering_Can_by_James_Wood_(thingiverse_CC-BY-NC)-PLA-15min-3grams.gcode"
+          "note": "",
+          "path": "samples/Easy/watering_can.gcode"
         }
       },
       "name": "Samples - Easy",
