@@ -185,27 +185,27 @@
         "samples/Printing Head Pro/g-clamp_frame.gcode": {
           "name": "G-Clamp Frame",
           "note": "ABS",
-          "path": "samples/Laser/g-clamp_frame.gcode"
+          "path": "samples/Printing Head Pro/g-clamp_frame.gcode"
         },
         "samples/Printing Head Pro/cable_ties_nylon.gcode": {
           "name": "Cable ties",
           "note": "Nylon",
-          "path": "samples/Laser/cable_ties_nylon.gcode"
+          "path": "samples/Printing Head Pro/cable_ties_nylon.gcode"
         },
         "samples/Printing Head Pro/cable_chain_ends.gcode": {
           "name": "Cable Chain",
           "note": "PLA",
-          "path": "samples/Laser/cable_chain_ends.gcode"
+          "path": "samples/Printing Head Pro/cable_chain_ends.gcode"
         },
         "samples/Printing Head Pro/cable_chain_x4.gcode": {
           "name": "Cable Chain x4 ",
           "note": "PLA",
-          "path": "samples/Laser/cable_chain_x4.gcode"
+          "path": "samples/Printing Head Pro/cable_chain_x4.gcode"
         },
         "samples/Printing Head Pro/pangolin.gcode": {
           "name": "Pangolin ",
           "note": "PLA",
-          "path": "samples/Laser/pangolin.gcode"
+          "path": "samples/Printing Head Pro/pangolin.gcode"
         }
       },
       "name": "Printing Head Pro",
